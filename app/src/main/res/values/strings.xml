@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="name_image">animal</string>
+    <string name="path_drawable">drawable</string>
+    <string name="vibrant">Vibrant</string>
+    <string name="dark_vibrant">Dark Vibrant</string>
+    <string name="light_vibrant">Light Vibrant</string>
+    <string name="muted">Muted</string>
+    <string name="select_image">Select image number:</string>
+    <string name="load_image">Load image</string>
+    <string name="dark_muted">Dark Muted</string>
+    <string name="light_muted">Light Muted</string>
+    <string name="population_count">%1$s Population %2$s</string>
+    <string name="population_swatch_undefined">%1$s (undefined)</string>
+    <string name="population_all_swatches">Color #%1$s Population %2$s</string>
+    <string name="image_url">https://unsplash.it/</string>
+    <string name="error_load_image">Error load image</string>
+</resources>
